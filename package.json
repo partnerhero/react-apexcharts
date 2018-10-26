@@ -42,7 +42,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "apexcharts": "^2.1.6",
+    "apexcharts": "git://github.com/partnerhero/apexcharts.js.git",
     "prop-types": "^15.5.7"
   },
   "deprecated": false,
